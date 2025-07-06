@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leticm03/BD15/mlops/Pra%CC%81ctica_mlops/notebooks/mlruns/198101304570970823/d7db0e568b6f41e7a67b267ce90478ad/artifacts
+end_time: 1751739749630
+entry_point_name: ''
+experiment_id: '198101304570970823'
+lifecycle_stage: active
+run_id: d7db0e568b6f41e7a67b267ce90478ad
+run_name: flawless-worm-955
+run_uuid: d7db0e568b6f41e7a67b267ce90478ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751739744924
+status: 3
+tags: []
+user_id: leticm03

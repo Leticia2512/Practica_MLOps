@@ -1,0 +1,20 @@
+name: bd15-despliegue-algo
+channels: 
+  - defaults 
+  - conda-forge 
+dependencies: 
+  - python=3.11.0
+  - ipykernel
+  - setuptools 
+  - wheel 
+  - poppler 
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - pip:
+      - fastapi==0.115.6
+      - mlflow==2.18.0
+  

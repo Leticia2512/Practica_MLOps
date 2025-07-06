@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1751749366091
+current_stage: None
+description: ''
+last_updated_timestamp: 1751749366091
+name: Wine_GB_Final_Model
+run_id: 47bb9c7174ae49958be8ff4c135bfc64
+run_link: ''
+source: file:///Users/leticm03/BD15/mlops/Pra%CC%81ctica_mlops/notebooks/mlruns/198101304570970823/47bb9c7174ae49958be8ff4c135bfc64/artifacts/gradient_boosting_model
+status: READY
+status_message: null
+storage_location: file:///Users/leticm03/BD15/mlops/Pra%CC%81ctica_mlops/notebooks/mlruns/198101304570970823/47bb9c7174ae49958be8ff4c135bfc64/artifacts/gradient_boosting_model
+user_id: null
+version: 1

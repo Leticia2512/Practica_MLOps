@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leticm03/BD15/mlops/Pra%CC%81ctica_mlops/notebooks/mlruns/198101304570970823/99107800c2ac4aa4820f4ecb15980079/artifacts
+end_time: 1751739756432
+entry_point_name: ''
+experiment_id: '198101304570970823'
+lifecycle_stage: active
+run_id: 99107800c2ac4aa4820f4ecb15980079
+run_name: funny-shark-444
+run_uuid: 99107800c2ac4aa4820f4ecb15980079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751739753089
+status: 3
+tags: []
+user_id: leticm03

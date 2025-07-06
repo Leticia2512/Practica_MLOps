@@ -1,0 +1,6 @@
+artifact_location: file:///Users/leticm03/BD15/mlops/Pra%CC%81ctica_mlops/notebooks/mlruns/198101304570970823
+creation_time: 1751739743353
+experiment_id: '198101304570970823'
+last_update_time: 1751739743353
+lifecycle_stage: active
+name: Wine_GradientBoosting_MLflow

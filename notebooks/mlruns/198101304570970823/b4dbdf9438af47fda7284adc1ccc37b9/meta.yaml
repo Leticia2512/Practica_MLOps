@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leticm03/BD15/mlops/Pra%CC%81ctica_mlops/notebooks/mlruns/198101304570970823/b4dbdf9438af47fda7284adc1ccc37b9/artifacts
+end_time: 1751739759773
+entry_point_name: ''
+experiment_id: '198101304570970823'
+lifecycle_stage: active
+run_id: b4dbdf9438af47fda7284adc1ccc37b9
+run_name: exultant-roo-630
+run_uuid: b4dbdf9438af47fda7284adc1ccc37b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751739756434
+status: 3
+tags: []
+user_id: leticm03

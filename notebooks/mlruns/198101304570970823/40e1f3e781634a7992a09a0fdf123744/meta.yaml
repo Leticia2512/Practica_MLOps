@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leticm03/BD15/mlops/Pra%CC%81ctica_mlops/notebooks/mlruns/198101304570970823/40e1f3e781634a7992a09a0fdf123744/artifacts
+end_time: 1751739770365
+entry_point_name: ''
+experiment_id: '198101304570970823'
+lifecycle_stage: active
+run_id: 40e1f3e781634a7992a09a0fdf123744
+run_name: worried-bat-138
+run_uuid: 40e1f3e781634a7992a09a0fdf123744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751739766873
+status: 3
+tags: []
+user_id: leticm03

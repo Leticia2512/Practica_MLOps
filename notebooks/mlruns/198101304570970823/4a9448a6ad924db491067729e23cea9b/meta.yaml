@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leticm03/BD15/mlops/Pra%CC%81ctica_mlops/notebooks/mlruns/198101304570970823/4a9448a6ad924db491067729e23cea9b/artifacts
+end_time: 1751739773870
+entry_point_name: ''
+experiment_id: '198101304570970823'
+lifecycle_stage: active
+run_id: 4a9448a6ad924db491067729e23cea9b
+run_name: worried-croc-695
+run_uuid: 4a9448a6ad924db491067729e23cea9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751739770367
+status: 3
+tags: []
+user_id: leticm03

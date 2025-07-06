@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leticm03/BD15/mlops/Pra%CC%81ctica_mlops/notebooks/mlruns/198101304570970823/4eea5006ec364ec6b256c9d7a6e8261e/artifacts
+end_time: 1751746547426
+entry_point_name: ''
+experiment_id: '198101304570970823'
+lifecycle_stage: active
+run_id: 4eea5006ec364ec6b256c9d7a6e8261e
+run_name: n_estimators=50, max_depth=5, lr=0.1
+run_uuid: 4eea5006ec364ec6b256c9d7a6e8261e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751746544049
+status: 3
+tags: []
+user_id: leticm03
